@@ -1,8 +1,7 @@
 
 <h1 style="text-align: center;">Simple JWT Authorization</h1>
-<h2 style="text-align: center;"> Simple MERN JWT Authorization (Vite - React (TypeScript + SWC))</h2>
+Simple Full-Stack MERN JWT Authorization (Vite - React (TypeScript + SWC) + Node, Express, MongoDB)  and Role-Based Access Control
 
-Full-Stack Application with JWT Authentication and Role-Based Access Control
 
 # Description
 A full-stack application demonstrating authentication, authorization, and role-based dashboards using React, TypeScript, Node.js, Express, and MongoDB.
